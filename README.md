@@ -4,7 +4,7 @@ A full‑stack web application with:
 - **Backend**: Node.js + Express (REST API)
 - **Frontend**: React (SPA)
 
-> LIVE SITE:https://persona-finance-dashboard.netlify.app/
+> LIVE SITE:[https://persona-finance-dashboard.netlify.app/](https://sandeepanchakraborty.github.io/FJ-BE-R2-Sandeepan-Chakraborty---Vellore_Institute-_of_technology_Bhopal-/sign-in)
 > Repo: `sandeepanchakraborty/FJ-BE-R2-Sandeepan-Chakraborty---Vellore_Institute-_of_technology_Bhopal-`
 
 ---
